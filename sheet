@@ -5,15 +5,20 @@ Hold Alt while tapping a clock in AE to bring up the program lines
 TIME 
 Time allows you to change the time of something, 
 
-example: 
+example: time*50
+
 ----------------------------
 TRANSFORM
 
-//why cant I just cmd c cmd v stuff to this... github y u do this 
+//why cant I just cmd c cmd v stuff to this... github y u do this
+// wait no my shit keyboard is shit and didnt wanna work lamo
 
 Transform allows you to size up and down images 
 
-example: 
+example: transform.scale*2
+
+Makes image twice as large 
+
 ---------------------------
 // I swear the shy icon looks like WOT NO guy
 
